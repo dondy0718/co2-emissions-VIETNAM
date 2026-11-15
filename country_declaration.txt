@@ -1,0 +1,5 @@
+Country: Vietnam
+ISO-3 code: VNM
+Study period: 1990–2024
+Student: [Enter your full name]
+Date declared to instructor: [Enter date]
